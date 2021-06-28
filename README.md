@@ -15,7 +15,7 @@ Source of data of HDB carpark reference and carpark availability data, can be fo
 
 Within the HDB carpark reference dataset, some important variables include
 
-|Feature|Type|Dataset|Description|
+|Feature|Type|Description|
 |---|---|---|---|
 | car_park_no | string | carpark number |
 | Address | float | Address |
@@ -26,7 +26,7 @@ Within the HDB carpark reference dataset, some important variables include
 
 Within the carpark availability dataset, some important variables include
 
-|Feature|Type|Dataset|Description|
+|Feature|Type|Description|
 |---|---|---|---|
 | total_lots | int | total parking lots |
 | lot_type | string | lot type |

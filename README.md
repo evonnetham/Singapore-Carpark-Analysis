@@ -1,5 +1,4 @@
 # Car Sharing Carpark Analysis
----
 _Author: Evonne Tham_
 
 Recently there have been a rise of usage in car-sharing services (e.g. BlueSg, Car Club, WhizzCar, Car Lite, etc) in Singapore due to the pandemic, as some people might believe it's safer than using public transport as there is minimal contact with other. Furthermore, car-sharing is more environmental friendly, especially for those services that are fully electronic. 

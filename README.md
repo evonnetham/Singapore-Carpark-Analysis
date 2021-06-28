@@ -9,6 +9,9 @@ As a user of this car-sharing services myself, it brought me to the inspiration 
 
 The carpark availability data set contains information from the Housing and Development Board (HDB), where lot availbilities were given by per hour basis for thousands of carparks in Singapore. The information enclosed is the unique carpark number, its address, x and y coordinates, type of parking system employed, and if it allows short term parking and if it allows night time parking. 
 
+### Tools and Libraries Used:
+python, pandas, numpy, seaborn, matplotlib, Tableau, Request, Json
+
 ### Data Source
 Source of data of HDB carpark reference and carpark availability data, can be found on the Data.gov.sg site, [here](https://data.gov.sg/dataset/hdb-carpark-information) and [here](https://data.gov.sg/dataset/carpark-availability), respectively, which was sourced publicly from Housing and Development Board.
 

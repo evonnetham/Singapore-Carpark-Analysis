@@ -3,7 +3,7 @@ _Author: Evonne Tham_
 
 Recently there have been a rise of usage in car-sharing services (e.g. BlueSg, Car Club, WhizzCar, Car Lite, etc) in Singapore due to the pandemic, as some people might believe it's safer than using public transport as there is minimal contact with other. Furthermore, car-sharing is more environmental friendly, especially for those services that are fully electronic. 
 
-<p><img src="https://www.intelligenttransport.com/wp-content/uploads/car-sharing-1.jpg"></p>
+<p><img src="https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/img_1733_0.jpg?itok=QiCUw4EL"></p>
 
 As a user of this car-sharing services myself, it brought me to the inspiration to a research on how these businesses decide on where to deploy its fleet across the carparks in Singapore.
 

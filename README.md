@@ -12,26 +12,8 @@ The carpark availability data set contains information from the Housing and Deve
 ### Data Source
 Source of data of HDB carpark reference and carpark availability data, can be found on the Data.gov.sg site, [here](https://data.gov.sg/dataset/hdb-carpark-information) and [here](https://data.gov.sg/dataset/carpark-availability), respectively, which was sourced publicly from Housing and Development Board.
 
-Within the HDB carpark reference dataset, some important variables include
-
-|Feature|Type|Description|
-|---|---|---|---|
-| car_park_no | string | carpark number |
-| Address | float | Address |
-| x_coord | float | longitude coordinate |
-| y_coord | float | latitude |
-| type_of_parking_system | string | type of parking system |
-| short_term_parking | string | type of short term parking |
-
-Within the carpark availability dataset, some important variables include
-
-|Feature|Type|Description|
-|---|---|---|---|
-| total_lots | int | total parking lots |
-| lot_type | string | lot type |
-| lots_available | int | total available lots |
-| carpark_number | string | carpark number |
-| update_datetime | datetime | time data was updated |
+Within the HDB carpark reference dataset, some important variables include car_park_no, address, x_coord, y_coord, type_of_parking_system, short_term_parking.
+and within the carpark availability dataset, some important variables include total_lots, lot_type, lots_available, carpark_number, update_datetime
 
 ### Conclusions and Recommendations
 Based on the data collected, the largest carpark that is electronic and whole day parking is located at BLK 611A/613A/615A/616A Bukit Panjang Ring Road/Senja Road. Although it might not be of the lowest utilized carpark, it has a average utilization of 15%. This could also mean that majority of the residences living in that in the area does not own a car. 
